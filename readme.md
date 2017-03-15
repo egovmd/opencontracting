@@ -1,0 +1,1 @@
+This repo is currently maintained at https://github.com/younginnovations/opencontracting-moldova. Please follow the link for details. 
